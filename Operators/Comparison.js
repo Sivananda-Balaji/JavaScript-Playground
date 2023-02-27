@@ -33,7 +33,8 @@ Trple equal to cheks the value and the data type between the two variable.
 
 // null and undefined
 /*
- When you compare the null with the number, the null acts as a zero and checks with the value. However if you try to compare with the zero it acts as a null.
+ When you compare the null with the number, the null acts as a zero and checks with the value.
+ However if you try to compare with the zero it acts as a null.
 
  */
 console.log("Null and Undefined");
