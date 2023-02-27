@@ -51,3 +51,13 @@ console.log(userDetails);
 console.log(typeof userDetails);
 
 
+//symbol
+
+const symbol = Symbol();
+
+const obj = {
+    [symbol] : "oneValue"
+}
+console.log(obj);
+
+
