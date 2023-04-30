@@ -15,10 +15,3 @@ console.log("---------------");
 for (let name of killers) {
   console.log(name);
 }
-
-console.log("---------------");
-// for in loop
-
-for (let index in killers) {
-  console.log(killers[index]);
-}
