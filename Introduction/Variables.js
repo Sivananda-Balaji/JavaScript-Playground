@@ -4,7 +4,6 @@ console.log(message);
 var message = "This is a new message.";
 console.log(message);
 
-
 //let - can be update , can't be re-declare, Block Scope
 
 let greetings;
@@ -19,11 +18,9 @@ console.log(greetings);
 const piValue = 3.14;
 console.log(piValue);
 
-
 /* const piValue = 4.34;
 piValue = 4.34;
 console.log(piValue); */
-
 
 // semi-colon is not required in the end if you are not wriring everything in a single line.
 
